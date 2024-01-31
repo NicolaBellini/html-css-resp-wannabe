@@ -163,20 +163,19 @@ img {
         font-size: 1rem;
         margin-bottom: 50px;
     }
-    .lessons h2{
-        /* text-align: center; */
+    h2{
+        
         margin: 0 auto 40px;
     }
 
-    .lessons p{
-        
+    h3{
+        font-size: 1.5rem;
     }
-    /* h2{
-        font-size: 2.8rem;
-    } */
+
     .steps{
         margin-bottom: 0;
         margin-top: 0;
+        padding: 3rem 0 0;
     }
 
     .why-us{
@@ -187,22 +186,8 @@ img {
 
     .why-us h2{
         margin-top: 50px;
-        /* font-size: 2.8rem; */
-    }
+    } 
 
-     h3{
-        font-size: 1.4rem;
-    }
-
-    /* .text{
-        font-size: 1.3rem;
-        margin-bottom: 70px;
-    } */
-    /* .card h3{
-        font-size: 1.7rem;
-    } */
-    /* .container h2,.container h3{
-        text-align: center; */
  }
 
 
